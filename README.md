@@ -1,4 +1,4 @@
-# Swift MCP Server - Implementation Instructions
+# Swift MCP Server
 
 ## Project Goal
 Reimplement the 3 core MCP servers (filesystem, git, fetch) as a single Swift binary called `mcpx`.
